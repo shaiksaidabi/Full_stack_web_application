@@ -113,4 +113,4 @@ This project is for educational purposes only and not intended for commercial us
 ## 🙋‍♂️ Author
 
 - **Uttam Kumar Narra**  
-  [GitHub](https://github.com/UttamkumarNarra) | [LinkedIn](https://www.linkedin.com/in/uttam-kumar-narra-54145024b/)
+  [GitHub](https://github.com/Narra-Uttam-Kumar) | [LinkedIn](https://www.linkedin.com/in/uttam-kumar-narra-54145024b/)
